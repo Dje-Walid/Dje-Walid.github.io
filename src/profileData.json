@@ -1,0 +1,119 @@
+{
+	"landing": {
+		"firstName": "Walid",
+		"lastName": " Djemmaâ",
+		"phoneNumber": "07 82 64 77 06",
+		"bio": "Etudiant en BTS SIO option SLAM au Lycée Voillaume. Actuellement à la recherche d'une alternance en informatique pour continuer mes études.",
+    "email": " walid.djemmaa@gmail.com",
+    "linkedin": "",
+		"github": "https://github.com/Dje-Walid"
+	},
+	"experience": [
+		{
+				"position": "Stage chef de projet/développeur d'application",
+				"organization": "Fédération Française de chasse",
+				"aboutWork": "- Optimisation de la base de données",
+				"aboutWork1": "- Mise en place de la méthode AGILE",
+				"aboutWork2": "- Résolution des bugs",
+				"fromDate": "Janvier 2020",
+				"toDate": "Mars 2020"
+		},
+		{
+            "position": "Stage développeur web",
+            "organization": "Monkey Locky",
+			"aboutWork": "- Développement de la façade du site sur WordPress",
+			"aboutWork1": "- Correction des bugs",
+			"aboutWork2": "- Contact avec le client pour améliorer la prise en main",
+            "fromDate": "Juin 2019",
+            "toDate": "Juillet 2019"
+		},
+		{
+			"position": "Hôte d'accueil/secrétaire",
+			"organization": "UCPA",
+			"aboutWork": "- Accueil des clients",
+			"aboutWork1": "- Réaliser les factures des groupes scolaires",
+			"aboutWork2": "- Conseiller les clients",
+			"fromDate": "Mai 2018",
+			"toDate": "Aujourd'hui"
+		},
+		{
+			"position": "Stage en comptabilité",
+			"organization": "Elior",
+			"aboutWork": "- Passage des factures en écritures comptable",
+			"aboutWork1": "- Préparation à l'arrivée à la norme IFRS 16 (norme comptable)",
+			"aboutWork2": "- Réalisation des Chiffres d'Affaires des fins de mois",
+			"fromDate": "Juin 2018",
+			"toDate": "Juillet 2018"
+		}
+	],
+	"education": [{
+			"university": "Lycée Voillaume",
+			"degree": "BTS SIO",
+			"gpa": "2ème année, option développement informatique (SLAM)",
+			"fromDate": "Septembre 2018",
+			"toDate": "Aujourd'hui"
+		},
+		{
+			"university": "Lycée Voillaume",
+			"degree": "DCG",
+			"gpa": "1ère année",
+			"fromDate": "Septembre 2017",
+			"toDate": "Juillet 2018"
+		},
+		{
+			"university": "Lycée Alfred Nobel",
+			"degree": "Obtention du baccalauréat STMG",
+			"gpa": "Option Gestion finance avec la mention bien",
+			"fromDate": "Septembre 2016",
+			"toDate": "Juin 2017"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+        },
+        {
+			"name": "PHP"
+        },
+        {
+			"name": "CMS (Wordpress, Wix)"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "Unity"
+        },
+        {
+            "name": "Unreal Engine 4"
+        }
+	],
+	"interests": {
+		"paragraphOne": "En plus d'être étudiant je suis aussi arbitre national de Handball. Je pratique pas mal de sport avec des amis lorsque j'en ai le temps.",
+		"paragraphTwo": "Quand je suis forcé de rester chez moi j'adore regarder me renseigner sur les dernières technologies qui sortent et j'en profite aussi pour apprendre de nouveaux langages ou pour approfondir mes connaissances dans certains domaines."
+	},
+	"awards": [{
+			"awardDetail": "Hack 36 3rd prize winner."
+		},
+		{
+			"awardDetail": "Mentor OpenCode'19"
+		},
+		{
+			"awardDetail": "Started North India's First Student Design and Developer Conference."
+		}
+	]
+}
