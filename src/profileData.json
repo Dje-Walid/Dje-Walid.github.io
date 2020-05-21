@@ -3,7 +3,7 @@
 		"firstName": "Walid",
 		"lastName": " Djemmaâ",
 		"phoneNumber": "07 82 64 77 06",
-		"bio": "Etudiant en BTS SIO option SLAM au Lycée Voillaume. Actuellement à la recherche d'une alternance en informatique pour continuer mes études.",
+		"bio": "Étudiant en première année de BTS SIO (Services Informatiques aux Organisations) option SLAM (Solutions Logicielles et applications métiers) au lycée Voillaume à Aulnay-Sous-Bois. Ce site a pour but de présenter toutes mes compétences acquises pendant mes stages et mes expériences professionnelles. Actuellement à la recherche d'une alternance en informatique pour continuer mes études.",
     "email": " walid.djemmaa@gmail.com",
     "linkedin": "",
 		"github": "https://github.com/Dje-Walid"
@@ -103,17 +103,15 @@
         }
 	],
 	"interests": {
-		"paragraphOne": "En plus d'être étudiant je suis aussi arbitre national de Handball. Je pratique pas mal de sport avec des amis lorsque j'en ai le temps.",
-		"paragraphTwo": "Quand je suis forcé de rester chez moi j'adore regarder me renseigner sur les dernières technologies qui sortent et j'en profite aussi pour apprendre de nouveaux langages ou pour approfondir mes connaissances dans certains domaines."
+		"paragraphOne": "Afin de valider ma première année en BTS services informatiques aux organisations, j’ai effectué un stage de 4 semaines au sein de Monkey Locky, du 3 Juin au 28 Juin 2019. Voici leur site internet : ",
+		"paragraphTwo": "Lors de ce stage j'ai appris beaucoup de chose, en effet grâce à celui ci j'ai pu apprendre à faire des sites internet en utilisant javascript, Node.js, Vue.js ainsi que React et Symfony. Je me suis aussi occupé de la mise en place de leur nouveau site internet ainsi que de la mise en place de nouveles fonctionnalités.",
+		"paragraphThree": "Afin de valider ma deuxième année en BTS services informatiques aux organisations, j'ai effectué un stage de 8 semaines au sein la Fédération Française de Chasse.",
+		"paragraphFour":"Lors de ce stage j'avais le rôle de chef de projet par conséquent je me devais mettre en place un emploi du temps ainsi que de donner des missions à mes collègues. C'est principalement grâce a ce stage que j'ai osé sauter le pas et faire des projets de mon côté (cf: projet Unity3D). Ce stage m'a permis d'apprendre énormement de chose que ce soit au niveau de la gestion d'une équipe, de la gestion des délais ou bien encore sur les langages utilisé"
 	},
-	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
-		},
-		{
-			"awardDetail": "Mentor OpenCode'19"
-		},
-		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
-		}
-	]
+	"awards": {
+			"fqdescription": "Forgotten quest a été mon tout premier vrai projet sur Unity. Je me suis premièrement lancé dans ce projet en ayant comme but d'améliorer mes connaissances en C# et ainsi voir mes limites. Au final j'ai énormément accrocher au développement sur Unity car celà m'a permit de me mettre au dessin afin de faire moi même mes personnages et mes environnements. Depuis ce projet ma soif de savoir n'a fait que s'accroître, d'ou mon projet sur Unreal Engine quelques mois après.",
+			"fqmsg1": "Voici quelques photos de mon projet :",
+			"ftdescritpion": "J'ai toujours voulu me lancer dans la 3D mais je n'avais que de simple base sur blender par conséquent je n'ai jamais osé sauter le pas, puis un jour je tombe sur un 'cours' en ligne proposer par Unreal Engine. J'ai donc décider d'y participer afin d'apprendre a coder sous UE4 et me mettre à la 3D, dans ce projet je ne suis pas seul, en effet nous sommes 4 dessus et nous venons de partout dans le monde (Deux américains, un indien et moi un français). Nous sommes vraiment qu'au début par conséquent les images ne seront pas très parlante mais je sens que je vais beaucoup apprendre grâce a ce projet. Un des énormes avantages de ce projet et que souvent nous avons des conférences avec des grands acteurs du milieu tel que des développeur de Rocket League, Unreal Engine, Riot Games, etc...",
+			"ftmsg1":"Voici quelques photos du début de mon projet (ici il y'a seulement ma partie et pas celles de mes colègues) :"
+	}
 }
