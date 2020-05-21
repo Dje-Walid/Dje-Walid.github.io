@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "http://waliddjemmaa.me/",
   "dependencies": {
     "@babel/runtime": "^7.9.6",
