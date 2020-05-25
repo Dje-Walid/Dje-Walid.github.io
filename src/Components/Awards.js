@@ -21,8 +21,8 @@ class Awards extends Component {
           <p>{this.awards.fqdescription}</p>
           <p className="mb-0">{this.awards.fqmsg1}</p>
           <br></br>
-          <img className="img-fluid mx-auto mb-2" src={fqlvl1} alt=""></img>
-          <img className="img-fluid mx-auto mb-2" src={fqlvl2} alt=""></img>
+          <a href={fqlvl1}><img className="img-fluid mx-auto mb-2" src={fqlvl1} alt=""></img></a>
+          <a href={fqlvl2}><img className="img-fluid mx-auto mb-2" src={fqlvl2} alt=""></img></a>
           <br></br><br></br>
           </ul>
           <h2 className="mb-5">Projet Unreal Engine 4 : Fast Track</h2>
@@ -30,8 +30,8 @@ class Awards extends Component {
           <p>{this.awards.ftdescritpion}</p>
           <p className="mb-0">{this.awards.ftmsg1}</p>
           <br></br>
-          <img className="img-fluid mx-auto mb-2" src={ftlvl1} alt=""></img>
-          <img className="img-fluid mx-auto mb-2" src={ftig} alt=""></img>
+          <a href={ftlvl1}><img className="img-fluid mx-auto mb-2" src={ftlvl1} alt=""></img></a>
+          <a href={ftig}><img className="img-fluid mx-auto mb-2" src={ftig} alt=""></img></a>
           </ul>
         </div>
       </section>
